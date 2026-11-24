@@ -24,8 +24,8 @@ Each repo follows the same template: what it does, architecture, workflows table
 | public-data-lead-pipelines | Many public data APIs, one shared enrichment and scoring workflow | Live |
 | approval-gated-ai-email | AI drafts, a human approves, only then it sends | Live |
 | n8n-production-patterns | Error workflows, sandbox discipline, heartbeats | Live |
-| litellm-role-alias-gateway | Self-hosted LLM gateway, role aliases across vLLM and llama.cpp | Planned |
-| crm-integration-toolkit-python | HubSpot, GoHighLevel, Zoho, Salesforce integration patterns | Planned |
+| litellm-role-alias-gateway | Self-hosted LLM gateway, role aliases across vLLM and llama.cpp | Live |
+| crm-integration-toolkit-python | HubSpot, GoHighLevel, Zoho, Salesforce integration patterns | Live |
 
 ## Stack
 
