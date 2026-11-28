@@ -14,6 +14,15 @@ Based in Cairo, Egypt. Working US Eastern hours. Open to relocation.
 - **Python automation and RPA** - Playwright/Selenium, pytest, audit-safe logging, HIPAA-aware habits from healthcare RPA work
 - **Production web scraping** - Playwright/Scrapy, proxy rotation, structured sinks, alerting
 
+## Selected work
+
+- [python-scraping-toolkit](https://github.com/hesham25/python-scraping-toolkit) - sync and async scraping patterns in Python, with retries, pagination and CSV/Excel/SQLite export
+- [playwright-automation-patterns](https://github.com/hesham25/playwright-automation-patterns) - browser automation patterns: session reuse, form handling, screenshot and PDF evidence
+- [python-automation-scripts](https://github.com/hesham25/python-automation-scripts) - small single-purpose CLI scripts for everyday automation jobs
+- [n8n-starter-patterns](https://github.com/hesham25/n8n-starter-patterns) - importable n8n workflows: validated webhook intake, scheduled API sync, shared error handling
+- [llm-automation-patterns](https://github.com/hesham25/llm-automation-patterns) - LLM steps that behave like production software: validated structured output, enum classification, minimal RAG
+- [async-workflow-checks](https://github.com/hesham25/async-workflow-checks) - testing patterns for asynchronous workflows
+
 ## Stack
 
 n8n - Python - Flask - FastAPI - LiteLLM - vLLM - llama.cpp - OpenWebUI - PostgreSQL - Docker - Proxmox - Tailscale - HubSpot - GoHighLevel - Zoho - Salesforce - Apollo - Playwright - Selenium - pytest
